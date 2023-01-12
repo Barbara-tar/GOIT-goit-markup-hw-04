@@ -71,7 +71,8 @@ body {
   fill: currentColor;
 }
 
-.contact-icon:hover {
+.contact-icon:hover,
+.contact-icon:focus {
   background-color: var(--higlight-color);
 }
 
@@ -215,8 +216,9 @@ body {
   color: var(--support-color);
 }
 
-.trumps-item:hover {
-  --higlight-color: #2196f3;
+.trumps-item:hover,
+.trumps-item:focus {
+  color: var(--higlight-color);
 }
 
 /* Czym się zajmujemy, nagłówek z Nasz zespół i nagłówek Nasi klienci */
