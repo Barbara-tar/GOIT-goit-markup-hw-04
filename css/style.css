@@ -275,6 +275,7 @@ body {
   display: flex;
   justify-content: center;
   gap: 10px;
+  color: #757575;
 }
 
 .social-link {
