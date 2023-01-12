@@ -71,8 +71,7 @@ body {
   fill: currentColor;
 }
 
-.contact-icon:hover,
-.contact-icon:focus {
+.contact-icon:hover {
   background-color: var(--higlight-color);
 }
 
@@ -216,8 +215,7 @@ body {
   color: var(--support-color);
 }
 
-.trumps-item:hover,
-.trumps-item:focus {
+.trumps-item:hover {
   --higlight-color: #2196f3;
 }
 
