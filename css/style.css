@@ -71,6 +71,11 @@ body {
   fill: currentColor;
 }
 
+.contact-icon:hover,
+.contact-icon:focus {
+  background-color: var(--higlight-color);
+}
+
 .header-address,
 .header-phone {
   font-weight: 500;
@@ -209,6 +214,11 @@ body {
   line-height: 1.71;
   letter-spacing: 0.03em;
   color: var(--support-color);
+}
+
+.trumps-item:hover,
+.trumps-item:focus {
+  --higlight-color: #2196f3;
 }
 
 /* Czym się zajmujemy, nagłówek z Nasz zespół i nagłówek Nasi klienci */
