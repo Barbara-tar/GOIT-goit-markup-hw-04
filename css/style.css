@@ -285,7 +285,7 @@ body {
   height: 44px;
 }
 .team-social-link {
-  fill: var(--customers-icon);
+  fill: #757575;
 }
 
 .social-link:hover,
@@ -470,5 +470,5 @@ body {
 
 .footer-social-link {
   background-color: var(--social-icons-background);
-  fill: var(--white-color);
+  fill: #ffffff;
 }
