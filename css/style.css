@@ -216,11 +216,6 @@ body {
   color: var(--support-color);
 }
 
-.trumps-item:hover,
-.trumps-item:focus {
-  color: var(--higlight-color);
-}
-
 /* Czym się zajmujemy, nagłówek z Nasz zespół i nagłówek Nasi klienci */
 
 .works-title,
