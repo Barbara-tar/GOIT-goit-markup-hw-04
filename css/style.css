@@ -324,11 +324,6 @@ body {
   border-color: var(--higlight-color);
 }
 
-.customers-icon:hover {
-  fill: var(--higlight-color);
-  border-color: var(--higlight-color);
-}
-
 /* Portfolio filters */
 
 .filter {
@@ -481,4 +476,10 @@ body {
 .footer-social-link {
   background-color: var(--social-icons-background);
   fill: #ffffff;
+}
+
+.icon-client:hover,
+.icon-client:hover {
+  fill: var(--higlight-color);
+  border-color: var(--higlight-color);
 }
