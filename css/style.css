@@ -324,6 +324,11 @@ body {
   border-color: var(--higlight-color);
 }
 
+.customers-icon:hover {
+  fill: var(--higlight-color);
+  border-color: var(--higlight-color);
+}
+
 /* Portfolio filters */
 
 .filter {
