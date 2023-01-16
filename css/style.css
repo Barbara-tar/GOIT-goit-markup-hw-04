@@ -479,7 +479,7 @@ body {
 }
 
 .icon-client:hover,
-.icon-client:hover {
+.icon-client:focus {
   fill: var(--higlight-color);
   border-color: var(--higlight-color);
 }
