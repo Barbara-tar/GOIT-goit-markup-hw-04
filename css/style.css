@@ -405,6 +405,11 @@ body {
   margin: 0 24px 20px;
 }
 
+.project-descrip {
+  border: 1px solid black;
+  border-top: none;
+}
+
 /* Footer */
 
 .footer-color {
