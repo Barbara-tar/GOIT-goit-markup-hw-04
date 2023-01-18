@@ -248,6 +248,7 @@ body {
 
 .team-card img {
   border-radius: 0px;
+  vertical-align: middle;
 }
 
 .team-card-descrip {
@@ -374,7 +375,6 @@ body {
 
 .project-card {
   background: var(--white-color);
-  border: 1px solid var(--projects-color);
 }
 
 .project-card:hover,
@@ -391,7 +391,7 @@ body {
   letter-spacing: 0.06em;
   color: var(--main-color);
 
-  margin: 20px 24px 4px;
+  padding: 20px 24px 4px;
 }
 
 .project-card-text {
@@ -406,7 +406,7 @@ body {
 }
 
 .project-descrip {
-  border: 1px solid black;
+  border: 1px solid var(--projects-color);
   border-top: none;
 }
 
