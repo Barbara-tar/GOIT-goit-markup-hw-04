@@ -485,7 +485,11 @@ body {
 }
 
 .icon-client:hover,
-.icon-client:focus {
+.icon-client:focus,
+.customers-icon:hover,
+.customers-icon:focus,
+.customers-box:hover,
+.customers-box:focus {
   fill: var(--higlight-color);
   border-color: var(--higlight-color);
 }
