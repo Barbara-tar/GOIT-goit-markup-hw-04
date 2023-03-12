@@ -74,7 +74,7 @@ body {
 .contact-icon:hover,
 .contact-icon:focus {
   color: var(--higlight-color);
-  background-color: var(--background-color);
+  background-color: var(--white-color);
 }
 
 .header-address,
