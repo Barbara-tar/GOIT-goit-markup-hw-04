@@ -193,7 +193,7 @@ body {
 
 .trumps-icon-box {
   padding: 25px 100px;
-  background-color: var(--main-color);
+  background-color: var(--team-color);
   border-radius: 4px;
 }
 
@@ -297,8 +297,7 @@ body {
 
 .social-link:hover,
 .social-link:focus {
-  color: var(--higlight-color);
-  background-color: var(--background-color);
+  background-color: var(--higlight-color);
 }
 
 .team-social-link:hover,
